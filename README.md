@@ -7,7 +7,7 @@ Welcome to my GitHub profile.
 * 🏦 I've been working in the **central banking** sector for over 10 years. My work often involves understanding complex economic and financial systems.
 * 💻 I have a strong interest in **technology** and how it intersects with finance, economics, and data analysis. I'm always curious about new tools and techniques that can improve insights and efficiency.
 * 🎓 I maintain an interest in the **academic world** and developments emerging from universities, particularly in fields relevant to my work and technological interests.
-* hobbies.md: I enjoy reading non-fiction (especially behavioral economics), playing chess, and dabbling in landscape photography. *(Example hobby)*
+* 🏀 I enjoy reading non-fiction (especially behavioral economics), playing chess, and dabbling in landscape photography. *(Example hobby)*
 
 ## Interests & Exploration
 
